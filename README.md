@@ -1,0 +1,2 @@
+# -ZXTR2112FQ-7
+SMD 12V/15mA out
